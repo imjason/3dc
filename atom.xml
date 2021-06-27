@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>3D创造</title>
+  
+  <subtitle>3D create</subtitle>
+  <link href="https://3dc.qystudio.ltd/atom.xml" rel="self"/>
+  
+  <link href="https://3dc.qystudio.ltd/"/>
+  <updated>2021-06-26T12:56:51.112Z</updated>
+  <id>https://3dc.qystudio.ltd/</id>
+  
+  <author>
+    <name>青云工作室</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>about</title>
+    <link href="https://3dc.qystudio.ltd/posts/21172.html"/>
+    <id>https://3dc.qystudio.ltd/posts/21172.html</id>
+    <published>2021-06-26T12:56:51.112Z</published>
+    <updated>2021-06-26T12:56:51.112Z</updated>
+    
+    <content type="html"><![CDATA[<p>详见<a href="http://3dc.qystudio.ltd/about" title="about">about</a>页</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;详见&lt;a href=&quot;http://3dc.qystudio.ltd/about&quot; title=&quot;about&quot;&gt;about&lt;/a&gt;页&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="about" scheme="https://3dc.qystudio.ltd/categories/about/"/>
+    
+    
+  </entry>
+  
+</feed>
