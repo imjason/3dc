@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://3dc.qystudio.ltd/about/index.html</loc>
+    
+    <lastmod>2021-07-09</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://3dc.qystudio.ltd/example/index.html</loc>
     
     <lastmod>2021-06-27</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>https://3dc.qystudio.ltd/posts/21172.html</loc>
-    
-    <lastmod>2021-06-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://3dc.qystudio.ltd/about/index.html</loc>
     
     <lastmod>2021-06-26</lastmod>
     
@@ -46,7 +46,7 @@
 
   <url>
     <loc>https://3dc.qystudio.ltd/</loc>
-    <lastmod>2021-07-03</lastmod>
+    <lastmod>2021-07-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -56,7 +56,7 @@
   
   <url>
     <loc>https://3dc.qystudio.ltd/categories/about/</loc>
-    <lastmod>2021-07-03</lastmod>
+    <lastmod>2021-07-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
